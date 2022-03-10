@@ -1,45 +1,32 @@
-<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
 
 
-# Felipe Silva
-### Desenvolvedor Frontend 🖥💻
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/femosilva/)
 
+<h3 align="center">  <br>
 
+Olá, eu sou o Felipe! 🇧🇷
 <br>
 
-### Sobre Mim:
+</h3>
 
-<p align="left" margin-left="10px"> 
+```
+Estudante de Análise e Desenvolvimento de Sistemas pela Descomplica, 
+ desenvolvedor Frontend há dois anos trabalhando com React.js. 
+```
+## Minha stack é: 💻
 
-- 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou estudando: Storybook
-- 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Descomplica.
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+  - SCSS
+  - Styled Components
+  - Design system
+  - Storybook
 
 
-
-<br>
-
-### Skills:
-
-<p align="left" margin-left="10px">
-- 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
-- ⚙ Conhecimento em Tecnologias como: <strong>TypeScript, Cypress, StyledComponents e SCSS<strong> <br>
-- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
-- 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
-- 🧩 Ferramenta de prototipação: <strong>Figma</strong>
-</p>
-
-<br/>
-<br/>
-
-### Contato
-
-<p align="left" margin-left="10px">
-  <a href="felipemosilvaa@gmail.com">
-    <img src="https://img.shields.io/badge/felipemosilvaa@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:felipemosilvaa-@gmail.com" style="max-width:100%;">
-  </a>
-  <a href="https://www.linkedin.com/in/femosilva/" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Felipe%20Silva-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/femosilva" style="max-width:100%;">
-  </a>
-</p>
