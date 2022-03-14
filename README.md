@@ -8,7 +8,7 @@ Olá, eu sou o Felipe! 🇧🇷
 </h3>
 
 ```
-Estudante de Análise e Desenvolvimento de Sistemas pela Descomplica, desenvolvedor Frontend há dois anos trabalhando com React.js. 
+Estudante de Análise e Desenvolvimento de Sistemas pela Descomplica, desenvolvedor Frontend há dois anos trabalhando com React.js
 ```
 ## Minha stack é: 💻
 
